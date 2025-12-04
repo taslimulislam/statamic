@@ -1,0 +1,17 @@
+tree:
+  -
+    id: 320f15a3-194b-4ed3-b521-92f01d4164a7
+    title: Home
+    url: /
+  -
+    id: b67b853b-d844-46e3-80fb-696d16412281
+    title: Blog
+    url: posts
+  -
+    id: 3571439b-90f9-4412-886e-ed0d3d4643f7
+    title: About
+    url: about
+  -
+    id: b41714b1-bc5e-406f-894b-8284495332c1
+    title: Contact
+    url: contact

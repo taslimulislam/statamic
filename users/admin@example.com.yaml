@@ -1,3 +1,13 @@
 super: true
 id: a5f5a956-e238-4561-ae93-3843e5545437
 password_hash: $2y$12$EUgn48iuHBVb/JGfLfUQTu7BoDrQ06CeO./qXKGGCm5CiowOGZUPK
+preferences:
+  collections:
+    posts:
+      columns:
+        - title
+        - slug
+        - template
+        - author
+        - status
+        - date

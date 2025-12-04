@@ -1,0 +1,15 @@
+tree:
+  -
+    id: e5d2bea5-9309-468f-98fc-2bf3822f0301
+    title: Home
+    url: /
+  -
+    id: 30a07663-3f20-4cc7-8911-e14f65b6bf11
+    title: About
+    url: about
+  -
+    id: f5dcc56a-8439-47ec-b053-579784f8dd0d
+    title: Github
+    url: 'https://github.com'
+    data:
+      extrenal_link: true
